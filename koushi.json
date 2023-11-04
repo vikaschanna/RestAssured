@@ -1,0 +1,10 @@
+{
+  "eName" : "koushi",
+  "eId" : "k-001",
+  "phones" : [ 12345, 45321 ],
+  "spouse" : {
+    "sName" : "kushi",
+    "sId" : "s-001",
+    "phNo" : [ 98765, 65789 ]
+  }
+}
